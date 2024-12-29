@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    padding-top: 20px;
+    height: 100px;
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+.nav-link{
+    color: whitesmoke;
+}
+footer{
+    min-height: 200px;
+    background-color: blueviolet;
+    text-align: center;
+    padding-top: 50px;
+}
+h1{
+    text-align: center;
+    color: purple;
+}
+img{ 
+    height: 250px;
+    padding: auto;
+}
+.ik{
+    padding: 50px 0px;
+    text-align: center;
+}
+input[type=text], input[type=email], textarea, button{
+    display: block;
+    margin: 15px 0px;
+    width: 400px;
+    box-sizing: border-box;
+}
+textarea{
+    height: 100px;
+    padding:5px;
+}
